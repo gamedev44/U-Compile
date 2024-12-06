@@ -50,7 +50,7 @@ Welcome to **UCompile by Risk**—a suite of powerful and user-friendly tools de
 ---
 
 ## **License**
-These tools are provided as-is. Modify and use them freely in your development workflow. All credit goes to **Risk** for simplifying the Unreal Engine experience!
+Protected by the Apache 2.0 License
 
 ---
 
